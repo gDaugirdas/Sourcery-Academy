@@ -1,7 +1,3 @@
-# Sourcery Application
-This is boiler-plate project for sourcery academy for front-end developers 2019.
-> **Please update this file according to your project**
-
 ## Prerequisites
 
 - [Node](https://nodejs.org/en/) version should match defined in `.nvmrc`.
